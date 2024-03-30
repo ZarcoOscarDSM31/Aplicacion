@@ -1,0 +1,6 @@
+{
+  "username": "flaco",
+  "email": "flaco@flaco.com",
+  "password": "flaco123",
+  "userType": "admin"
+}
